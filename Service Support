@@ -1,0 +1,11 @@
+# Create React app
+npx create-react-app golden-ro-app
+cd golden-ro-app
+
+# Replace App.js with your code
+# (copy pasted code into App.js)
+
+# Initialize git and push
+git add .
+git commit -m "Initial commit"
+git push origin main
