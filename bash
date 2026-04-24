@@ -1,0 +1,1 @@
+git remote -v && git status --short
